@@ -20,7 +20,7 @@ These all the parameters which are used to identify the Heart Disease Diagonis -
 
 Tools Used : Python Programming Language and its Libararies such as numpy, pandas, matplotlib, seaborn etc. , Jupyter Notebook
 Useful Insights :
-1) Chest pain type (0), i.e - Typical Angina is more common  amomg the people.
+1) Chest pain type (0), i.e - Typical Angina is more common  among the people.
 2) Higher number of Heart Disease patients without Diabetes.
 3) Males have the more Heart Disease than Females.
 4) Most People have "Non-Anginal Chest Pain" type(2) - Chest Pain without Heart Diesease.
